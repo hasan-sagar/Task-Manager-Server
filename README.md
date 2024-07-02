@@ -1,6 +1,6 @@
 
 
-# Task Manager - Front-End
+# Task Manager - Back-End
 
 ## Project Intro
 This repository contains the server-side code for a task management application. The server is responsible for handling all the backend operations, including user authentication, task creation, updating, deletion, and data storage. It provides APIs that the client-side application uses to interact with the server.
